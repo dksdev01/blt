@@ -29,7 +29,7 @@
         "consolidation/config": "^2.0.0",
         "consolidation/robo": "^4",
         "dflydev/dot-access-data": "^3",
-        "doctrine/annotations": "^1.10.0",
+        "doctrine/annotations": "2.0 as 1.14.4",
         "drupal/core": "^10.0.0",
         "drush/drush": "^12",
         "enlightn/security-checker": "^1.3",
